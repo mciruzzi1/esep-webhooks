@@ -16,3 +16,4 @@ C:\School_Schtuff\CIS4930\web_hooks\esep-webhooks\EsepWebhook\src\EsepWebhook\ob
 C:\School_Schtuff\CIS4930\web_hooks\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\School_Schtuff\CIS4930\web_hooks\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\School_Schtuff\CIS4930\web_hooks\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\School_Schtuff\CIS4930\web_hooks\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
